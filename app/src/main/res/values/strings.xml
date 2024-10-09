@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="get_new_quote">Get New Quote</string>
+    <string name="info_button">Info</string>
+    <string name="back_button">Back</string>
+    <string name="info_text">This is a simple app that fetches daily quotes about happiness.</string>
+</resources>
