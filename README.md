@@ -10,12 +10,11 @@ Tämä sovellus tarjoaa käyttäjilleen päivittäisiä lainauksia inspiroivista
 
 ## Päänäyttö
 
-![Mainscreen](mobiiliohjelmointi_Quotes/images/InfoScreen.jpg)
-
+<img src="images/MainScreen.jpg" alt="Mainscreen" width="500"/>
 
 ## Info-näyttö
 
-![Infoscreen](images/InfoScreen.jpg)
+<img src="images/InfoScreen.jpg" alt="Infoscreen" width="500"/>
 
 ## Teknologiat
 
