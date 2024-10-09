@@ -15,7 +15,7 @@ Tämä sovellus tarjoaa käyttäjilleen päivittäisiä lainauksia inspiroivista
 
 ## Info-näyttö
 
-![Infoscreen](mobiiliohjelmointi_Quotes/images/MainScreen.jpg)
+![Infoscreen](images/InfoScreen.jpg)
 
 ## Teknologiat
 
