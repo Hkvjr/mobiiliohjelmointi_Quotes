@@ -10,11 +10,12 @@ Tämä sovellus tarjoaa käyttäjilleen päivittäisiä lainauksia inspiroivista
 
 ## Päänäyttö
 
-![Mainscreen](images/mainscreen.png)
+![Mainscreen](mobiiliohjelmointi_Quotes/images/InfoScreen.jpg)
+
 
 ## Info-näyttö
 
-![Infoscreen](images/infoscreen.png)
+![Infoscreen](mobiiliohjelmointi_Quotes/images/MainScreen.jpg)
 
 ## Teknologiat
 
